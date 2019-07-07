@@ -1,1 +1,3 @@
-# c-exercises
+# C Exercises
+
+*Programming Exercises in C*
